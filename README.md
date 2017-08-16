@@ -7,7 +7,9 @@ Fuente variable regulada con voltimetro 1.5 a 30V @ 1A
 El proyecto consta de 3 archivos importantes:
 
 *Fuente_ESIQUIE_2.sch: Diagrama electrico del proyecto
+
 *Fuente_ESIQUIE_2.brd: Archivo del diseño del circuito impreso
+
 *Manual.pdf: Manual de Usuario & Garantia del Producto
 
 ## Consideraciones
